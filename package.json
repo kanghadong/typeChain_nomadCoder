@@ -1,0 +1,12 @@
+{
+  "name": "typeChain_nomadCoder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kanghadong/typeChain_nomadCoder.git",
+  "author": "kanghadong <hdkang2007@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
